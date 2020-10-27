@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Nath7009/ElevatorSystem/issues"
   },
-  "homepage": "https://github.com/Nath7009/ElevatorSystem#readme"
+  "homepage": "https://github.com/Nath7009/ElevatorSystem#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "readline": "^1.3.0",
+    "yargs": "^16.1.0"
+  }
 }
